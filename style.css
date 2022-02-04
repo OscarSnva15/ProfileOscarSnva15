@@ -91,7 +91,6 @@ hr{
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 25px;
 }
-
 .news-cards img{
     width: 100%;
     height: 180px;
